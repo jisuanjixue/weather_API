@@ -35,3 +35,5 @@ module TianqiApi
     config.api_only = true
   end
 end
+
+JUHE_CONFIG = Rails.application.config_for(:juhe)
